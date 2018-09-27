@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1 ,
+      "image": "http://www.stickpng.com/assets/thumbs/5866144b7d90850fc3ce2a64.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "http://pngimg.com/uploads/minions/minions_PNG84.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image":"https://i.pinimg.com/originals/b7/f3/97/b7f397fef0ce46db17a3e728549d41e6.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://i.pinimg.com/originals/be/56/eb/be56eb7b49c646b73a69b2d50fe66c86.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "http://bdfjade.com/data/out/85/5900867-minion-images.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "http://pngimg.com/uploads/minions/minions_PNG52.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "http://www.stickpng.com/assets/thumbs/5866129a7d90850fc3ce2a47.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "http://www.gerdoou.ir/mysticker/minions/tired.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://i.pinimg.com/originals/a7/68/52/a76852b98c49e9a494a7cce72605d6e8.png",
+      "clicked": false
+    }
+]

@@ -1,0 +1,23 @@
+.h3{
+    margin-left: 200px; 
+    top: 0px;
+    bottom: 0px;
+    text-align: center;
+    font-size:50px; 
+    color:red;
+   
+}
+.j1{
+    height: 250px;
+   background-image: url(img/SingleAgitatedBug-size_restricted.gif); 
+   background-size: 30%;
+   border: 2px solid red;
+}
+.p{
+    top:0px;
+    bottom: 0px;
+    font-size: 17px;
+    text-align: center;
+    color:blue;
+
+}
